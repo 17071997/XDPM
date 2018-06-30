@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QuanLyChoThueBangDia">
+  <DataContextMoniker Name="/QuanLyChoThueBangDiaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="272039c6-71b2-4942-bd70-3ac321b8b542" absoluteBounds="0.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QuanLyChoThueBangDiaDataContext/Dia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c8737fa3-2260-45a6-8140-67c982718fb6" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9735925a-9506-4c36-9c79-67a76b4d8ecb" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QuanLyChoThueBangDiaDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28534f19-1535-4366-b73c-54103b27c8bf" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e64ec869-62d5-40fa-b407-68e6f17a804a" absoluteBounds="0.75, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QuanLyChoThueBangDiaDataContext/LoaiDia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5888165e-9581-4195-bf4d-21adfa5ee999" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="14d30652-3c34-4363-bb28-127782825346" absoluteBounds="3.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/QuanLyChoThueBangDiaDataContext/Login" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bf1174fc-8680-47b9-81e6-2b7ccb77982a" absoluteBounds="3.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9073b687-3ea2-412e-ab51-7d02647b7432" absoluteBounds="3.75, 5.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/QuanLyChoThueBangDiaDataContext/NhatKyThueDia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="24c53a50-dc0c-4585-849b-cae090816656" absoluteBounds="3.765, 6.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3bd1ef93-adf9-48dc-a516-fd84e301b203" absoluteBounds="6.75, 0.75, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/QuanLyChoThueBangDiaDataContext/TuaDe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f0ca195f-ecc5-4eb5-8d56-23315f6cd90a" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
